@@ -64,7 +64,8 @@ Left and right movement haven't been implemented as they were too hard for me to
 back then.
 
 Credits:
-Simulation Engine ------------------------------- Me
-Simulation Graphics ----------------------------- Me, Anonymous
-UI (Window) ------------------------------------- John Carl Camacho, 2 Anonymous
-Derivation and Accuracy of the formulas used ---- 2 Anonymous
+
+- Simulation Engine ------------------------------- Me
+- Simulation Graphics ----------------------------- Me, Anonymous
+- UI (Window) ------------------------------------- John Carl Camacho, 2 Anonymous
+- Derivation and Accuracy of the formulas used ---- 2 Anonymous
