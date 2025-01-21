@@ -66,6 +66,6 @@ back then.
 Credits:
 
 - Simulation Engine ------------------------------- Me
-- Simulation Graphics ----------------------------- Me, Anonymous
+- Simulation Graphics ----------------------------- Me, Vince E. Esona
 - UI (Window) ------------------------------------- John Carl Camacho, 2 Anonymous
-- Derivation and Accuracy of the formulas used ---- 2 Anonymous
+- Derivation and Accuracy of the formulas used ---- Vince E. Esona, Anonymous
