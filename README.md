@@ -21,10 +21,10 @@ class. It has been tested to run on Windows 10 and Windows 11, provided the requ
 
 # Requirements
 - Python 3.12 or higher
---- TkInter
---- Pillow
---- keyboard
---- vpython
+  - TkInter
+  - Pillow
+  - keyboard
+  - vpython
   
 # How to run the program
 First, install python from the website https://www.python.org/ . 
